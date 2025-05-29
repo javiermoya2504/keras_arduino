@@ -33,17 +33,16 @@ pip install -r requirements.txt
 ```
 ---
 ## Diagrama Arduino
-<img width="879" alt="Screenshot 2025-05-29 at 11 30 16 a m" src="https://github.com/user-attachments/assets/2a7bcfe7-e8bc-4855-9e23-302727644afa" />
+![image](https://github.com/user-attachments/assets/57a5c86f-2fa5-4eb4-9fef-82dae2cdb252)
 
 ---
 ## Uso
-	1.	Conecta tu Arduino a la computadora vía USB.
-	2.	Asegúrate de modificar que el puerto serial en el código sea el correcto (/dev/cu.usbmodemXXXX en Mac o COMX en Windows).
- 	3.	Carga el codigo /arduino/arduinoIA.ino a tu placa.
-	4.	Ejecuta el script principal:
+1. Conecta tu Arduino a la computadora vía USB.
+2. Asegúrate de modificar que el puerto serial en el código sea el correcto (/dev/cu.usbmodemXXXX en Mac o COMX en Windows).
+3. Carga el codigo /arduino/arduinoIA.ino a tu placa.
+4. Ejecuta el script principal:
 
 ```bash
-
 python TeachableMachineArduino.py
 ```
 ---
