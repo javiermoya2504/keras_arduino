@@ -17,11 +17,17 @@ El modelo fue entrenado con Teachable Machine y exportado en formato **Keras (`.
 
 
 keras_arduino/
+
 ├── keras/
-│   ├── keras_model.h5   
-│   ├── labels.txt         
-├── TeachableMachineArduino.py  
+
+│   ├── keras_model.h5 
+
+│   ├── labels.txt  
+
+├── TeachableMachineArduino.py
+
 ├── requirements.txt     
+
 └── .gitignore            
 
 ---
