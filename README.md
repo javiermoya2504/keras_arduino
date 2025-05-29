@@ -10,17 +10,9 @@ El modelo fue entrenado con Teachable Machine y exportado en formato **Keras (`.
 🔗 Puedes ver el modelo en línea aquí:  
 [https://teachablemachine.withgoogle.com/models/rsKXMqJcX/](https://teachablemachine.withgoogle.com/models/rsKXMqJcX/)
 
-- Puedes crear tu propio modelo en Teachable Machine y ponerlo en la capeta keras como se muestra en la estructura:
+- Puedes crear tu propio modelo en Teachable Machine y ponerlo en la capeta keras.
 ---
 
-## 📁 Estructura del proyecto
-keras_arduino/
-├── keras/
-│   ├── keras_model.h5         # Modelo entrenado
-│   ├── labels.txt             # Etiquetas del modelo
-├── TeachableMachineArduino.py # Código Python principal
-├── requirements.txt           # Dependencias del proyecto
-└── .gitignore                 # Archivos ignorados por Git
 
         
 ---
@@ -42,8 +34,9 @@ pip install -r requirements.txt
 
 ## Uso
 	1.	Conecta tu Arduino a la computadora vía USB.
-	2.	Asegúrate de que el puerto serial en el código sea el correcto (/dev/cu.usbmodemXXXX en Mac o COMX en Windows).
-	3.	Ejecuta el script principal:
+	2.	Asegúrate de modificar que el puerto serial en el código sea el correcto (/dev/cu.usbmodemXXXX en Mac o COMX en Windows).
+ 	3.	Carga el codigo /arduino/arduinoIA.ino a tu placa.
+	4.	Ejecuta el script principal:
 
 ```bash
 
