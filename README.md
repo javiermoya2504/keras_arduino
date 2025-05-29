@@ -16,14 +16,13 @@ El modelo fue entrenado con Teachable Machine y exportado en formato **Keras (`.
 ## 📁 Estructura del proyecto
 
 
-
 keras_arduino/
 ├── keras/
-│   ├── keras_model.h5      # Modelo entrenado
-│   ├── labels.txt          # Etiquetas del modelo
-├── TeachableMachineArduino.py  # Código Python principal
-├── requirements.txt        # Dependencias del proyecto
-└── .gitignore              # Archivos ignorados por Git
+│   ├── keras_model.h5   
+│   ├── labels.txt         
+├── TeachableMachineArduino.py  
+├── requirements.txt     
+└── .gitignore            
 
 ---
 
