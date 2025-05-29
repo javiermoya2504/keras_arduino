@@ -10,7 +10,7 @@ El modelo fue entrenado con Teachable Machine y exportado en formato **Keras (`.
 🔗 Puedes ver el modelo en línea aquí:  
 [https://teachablemachine.withgoogle.com/models/rsKXMqJcX/](https://teachablemachine.withgoogle.com/models/rsKXMqJcX/)
 
-- Puedes crear tu propio modelo en Teachable Machine y ponlo del de la capeta keras como se muestra en la estructura:
+- Puedes crear tu propio modelo en Teachable Machine y ponerlo en la capeta keras como se muestra en la estructura:
 ---
 
 ## 📁 Estructura del proyecto
