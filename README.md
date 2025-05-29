@@ -48,7 +48,7 @@ python TeachableMachineArduino.py
 ```
 ---
 ---
-##Deno
+## Demo
 
 
 https://github.com/user-attachments/assets/365d0275-b33c-4a97-9451-8f13d3fc33df
