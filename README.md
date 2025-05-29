@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 ---
 ## Diagrama Arduino
-![image](https://github.com/user-attachments/assets/57a5c86f-2fa5-4eb4-9fef-82dae2cdb252)
+![image](https://github.com/user-attachments/assets/ae395eec-1ee7-4583-b42c-6f354a8224b1)
 
 ---
 ## Uso
