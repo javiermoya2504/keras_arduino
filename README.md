@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/80d1ee06-4370-4722-8a08-8d99df690e74)# Teachable Machine con Python y Arduino 🤖📷
+# Teachable Machine con Python y Arduino 🤖📷
 
 Este proyecto utiliza un modelo de aprendizaje automático entrenado en [Teachable Machine](https://teachablemachine.withgoogle.com/) para reconocer gestos o imágenes mediante la cámara de tu computadora. El resultado se envía por **puerto serial** a un Arduino para controlar salidas (como LEDs).
 
