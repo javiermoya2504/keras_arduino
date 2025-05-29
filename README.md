@@ -47,3 +47,12 @@ pip install -r requirements.txt
 python TeachableMachineArduino.py
 ```
 ---
+---
+##Deno
+
+
+https://github.com/user-attachments/assets/365d0275-b33c-4a97-9451-8f13d3fc33df
+
+
+
+---
