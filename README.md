@@ -10,9 +10,12 @@ El modelo fue entrenado con Teachable Machine y exportado en formato **Keras (`.
 🔗 Puedes ver el modelo en línea aquí:  
 [https://teachablemachine.withgoogle.com/models/rsKXMqJcX/](https://teachablemachine.withgoogle.com/models/rsKXMqJcX/)
 
+- Puedes crear tu propio modelo en Teachable Machine y ponlo del de la capeta keras como se muestra en la estructura:
 ---
 
 ## 📁 Estructura del proyecto
+
+
 
 keras_arduino/
 ├── keras/
@@ -32,11 +35,12 @@ keras_arduino/
 - NumPy
 - Comunicación serial (`pyserial`)
 
+
 Instala las dependencias con:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Uso
 	1.	Conecta tu Arduino a la computadora vía USB.
@@ -46,3 +50,4 @@ pip install -r requirements.txt
 ```bash
 
 python TeachableMachineArduino.py
+```
